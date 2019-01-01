@@ -1,7 +1,7 @@
 ﻿{
-    "version":  "8u65",
-    "url":  "http://download.oracle.com/otn-pub/java/jdk/8u65-b17/jdk-8u65-windows-x64.exe",
-    "hash":  "589633b8688ef7331a861a6d87487a82ed40bc6c287c4c567c4f91737c5011d5",
+    "version":  "8u191",
+    "url":  "https://download.oracle.com/otn-pub/java/jdk/8u191-b12/2787e4a523244c269598db4e85c51e0c/jdk-8u191-windows-x64.exe",
+    "hash":  "a2b1d99cf026880869d8188872e20f615133e7a40786712365d7b750f1dd6e57",
     "cookie":  {
                    "oraclelicense":  "accept-securebackup-cookie"
                },
